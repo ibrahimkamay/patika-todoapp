@@ -7,6 +7,6 @@ Patika.dev'de React kursunda verilen ödevim.
 -Props oluşturma
 -States ve Lifecycle kullanımı
 
-#Live Demo
+# Live Demo
 
 [Click Me] (https://ibrahimkamay.github.io/patika-todoapp)
