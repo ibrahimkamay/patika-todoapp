@@ -9,4 +9,4 @@ Patika.dev'de React kursunda verilen ödevim.
 
 # Live Demo
 
-[Click Me] (https://ibrahimkamay.github.io/patika-todoapp)
+[Click Me](https://ibrahimkamay.github.io/patika-todoapp)
